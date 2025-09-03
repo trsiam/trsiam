@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Tohidur Rahman Siam</h1>
-<h3 align="center">A passionate Software developer from Bangladesh. I love problem solving and currently solving problems on leetcode. Currently Unemployed</h3>
+<h3 align="center">A passionate Software developer from Bangladesh. I love problem solving and currently solving problems on leetcode and Currently Unemployed</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trsiam&label=Profile%20views&color=0e75b6&style=flat" alt="trsiam" /> </p>
 
@@ -23,7 +23,7 @@
 <a href="https://instagram.com/trsiam3468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trsiam3468" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/trsiam3468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trsiam3468" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/trsiam3468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trsiam3468" height="30" width="40" /></a>
-<a href="https://discord.gg/804372554558603347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="804372554558603347" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/62WuxZjCUP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/62WuxZjCUP" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
