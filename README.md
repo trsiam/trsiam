@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Tohidur Rahman Siam</h1>
-<h3 align="center">A passionate Software developer from Bangladesh</h3>
+<h3 align="center">A passionate Software developer from Bangladesh. I love problem solving and currently solving problems on leetcode. Currently Unemployed</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trsiam&label=Profile%20views&color=0e75b6&style=flat" alt="trsiam" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python,GO lang, MongoDB**
 
-- 💬 Ask me about **AI Unreal Games**
+- 💬 Ask me about **AI, Unreal Games,Database**
 
 - 📫 How to reach me **trsiam3468@gmail.com**
 
