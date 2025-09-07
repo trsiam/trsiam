@@ -3,8 +3,7 @@
 <h3>🙋‍♂️ About me </h3>
 <h10 align="center">I’m a fresh CSE graduate 🎓 from Bangladesh 🇧🇩, currently in the Bangladesh Standard Time Zone ⏰. My main stack is Python 🐍, and I enjoy exploring Go ⚡, building games with Unreal Engine 🎮, and working with databases like MySQL and MongoDB 🗄️. I’m also passionate about AI 🤖, always curious, learning, and building 🚀</h10>
 <h3>🌴 I'm currently learning</h3>
-![image alt](https://github.com/trsiam/IMAGES/blob/main/GO%20lang.png?raw=true)
-
+<img width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/4be8e827-acb8-45e8-be12-5d3e2fdb040f" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
