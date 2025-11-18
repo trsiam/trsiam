@@ -1,4 +1,4 @@
-<h3 align="left">Hi there 👋, my name is Tohidur Rahman Siam</h3>
+<h3 align="left">Hi there 👋, my name is Tohidur Rahaman Siam</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trsiam&label=Profile%20views&color=0e75b6&style=flat" alt="trsiam" /> </p>
 <h3>🙋‍♂️ About me </h3>
 <h10 align="center">I’m a fresh CSE graduate 🎓 from Bangladesh 🇧🇩, currently in the Bangladesh Standard Time Zone ⏰. My main stack is Python 🐍, and I enjoy exploring Go ⚡, building games with Unreal Engine 🎮, and working with databases like MySQL and MongoDB 🗄️. I’m also passionate about AI 🤖, always curious, learning, and building 🚀</h10>
