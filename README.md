@@ -15,7 +15,8 @@
 <h3 align="left">⚒ Currently working on:</h3>
 
 <h10 align="left">☮ Solving Leetcode Problems </h10>
-<h10 align="left">🤖 Learning About AI </h10>
+
+<h10 align="left">🤖 Learning About Generative AI and Chatbot </h10>
 
 
 
