@@ -15,12 +15,8 @@
 <h3 align="left">⚒ Currently working on:</h3>
 
 <h10 align="left">☮ Solving Leetcode Problems </h10>
+<h10 align="left">🤖 Learning About AI </h10>
 
-<h10 align="left">🎗Creating a Horor Game in Unreal  </h10>
-
-<h10 align="left">🎭 Learning GO-Lang </h10>
-
-<h10 align="left">🎡 Training For Iltes</h10>
 
 
  <a href="mailto:trsiam3468@gmail.com">Connect with me</a>
