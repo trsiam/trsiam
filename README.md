@@ -5,7 +5,7 @@
 <h3>🌴 I'm currently learning</h3>
 <img width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/4be8e827-acb8-45e8-be12-5d3e2fdb040f" />
 <img width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/739704ce-5fff-4097-acd4-a89e0657ef74" />
-<img width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/739704ce-5fff-4097-acd4-a89e0657ef74" />
+<img width="120" height="120" alt="Image" src="https:[//github.com/user-attachments/assets/739704ce-5fff-4097-acd4-a89e0657ef74](https://github.com/trsiam/IMAGES/blob/b2f7ea46d23e04f1ea4de553668643a7849c49b4/download.png)" />
 <p align="left">
 </p>
 
