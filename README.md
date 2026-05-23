@@ -13,9 +13,9 @@
 
 <h3 align="left">⚒ Currently working on:</h3>
 
-<h10 align="left">☮ Revising THe FUndamentals </h10>
+<h10 align="left"> 🏇 Preparing for JOB Interview </h10>
 
-<h10 align="left">🤖 Learning about RAG and AI </h10>
+<h10 align="left"> ⏩ Learning FAST API </h10>
 
 
 
