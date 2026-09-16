@@ -3,8 +3,8 @@
 <h3>🙋‍♂️ About me </h3>
 <h10 align="center">I’m a fresh CSE graduate 🎓 from Bangladesh 🇧🇩, currently in the Bangladesh Standard Time Zone ⏰. My main stack is Python 🐍, and I enjoy exploring new things ⚡, building games with Unreal Engine 🎮, and working with databases like MySQL and MongoDB 🗄️. I’m also passionate about AI 🤖, always curious, learning, and building 🚀</h10>
 <h3>🌴 I'm currently learning</h3>
-<img width="120" height="120" alt="Image" src="https://github.com/trsiam/IMAGES/blob/18d89d7ea62ce20a19dee1420033bb82d24dcaab/kali-linux.svg" />
-<img width="120" height="120" alt="Image" src="https://github.com/trsiam/IMAGES/blob/18d89d7ea62ce20a19dee1420033bb82d24dcaab/fastapi.svg"/>
+<img width="60" height="60" alt="Image" src="https://github.com/trsiam/IMAGES/blob/18d89d7ea62ce20a19dee1420033bb82d24dcaab/kali-linux.svg" />
+<img width="60" height="60" alt="Image" src="https://github.com/trsiam/IMAGES/blob/18d89d7ea62ce20a19dee1420033bb82d24dcaab/fastapi.svg"/>
 <p align="left">
 </p>
 
