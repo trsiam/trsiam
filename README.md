@@ -12,10 +12,11 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="60" height="60"/> </a> </p>
 
 <h3 align="left">⚒ Currently working on:</h3>
-
-<h10 align="left"> 🏇 Preparing for JOB Interview </h10>
-
 <h10 align="left"> ⏩ Learning FAST API </h10>
+<h10 align="left"> ⏩ Working on a Crypto Project </h10>
+<h10 align="left"> ⏩ Learning Linux </h10> 
+<h10 align="left"> ⏩ Exploring Cyber Security </h10> 
+
 
 
 
