@@ -10,7 +10,10 @@
 
 <h3 align="left">🔨Languages and Tools :</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="60" height="60"/> </a>
-<img width="60" height="60" alt="Image" src="https://github.com/trsiam/IMAGES/blob/18d89d7ea62ce20a19dee1420033bb82d24dcaab/fastapi.svg"/>
+<img width="60" height="60" alt="Image" src="https://github.com/trsiam/IMAGES/blob/0bd574d10090cf8cd94facb3995744b5933b0f57/chatgpt.svg"/>
+<img width="60" height="60" alt="Image" src="https://github.com/trsiam/IMAGES/blob/0bd574d10090cf8cd94facb3995744b5933b0f57/claude.svg"/>
+<img width="60" height="60" alt="Image" src="https://github.com/trsiam/IMAGES/blob/0bd574d10090cf8cd94facb3995744b5933b0f57/deepseek.svg"/>
+<img width="60" height="60" alt="Image" src="https://github.com/trsiam/IMAGES/blob/0bd574d10090cf8cd94facb3995744b5933b0f57/visual-studio-code.svg"/>
 <p align="left">
 
 </p>
